@@ -19,6 +19,6 @@ Yii2 Initial Configuration for advanced template
 
 You can access frontend and backend as :
 
-frontend: http://localhost/your_directory/site/index
+frontend: http://localhost/your_directory/site/index <br />
 backend: http://localhost/your_directory/admin/site/index
 
